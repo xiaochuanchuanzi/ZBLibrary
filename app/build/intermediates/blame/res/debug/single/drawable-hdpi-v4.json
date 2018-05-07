@@ -1,0 +1,390 @@
+[
+    {
+        "merged": "E:\\Adroid\\WorkSpace\\ZBLibrary(AndroidStudio)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_000.png",
+        "source": "C:\\Users\\立涛\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\b7ca984526726307fe8b64aebfb5e830\\res\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "E:\\Adroid\\WorkSpace\\ZBLibrary(AndroidStudio)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png",
+        "source": "C:\\Users\\立涛\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\b7ca984526726307fe8b64aebfb5e830\\res\\drawable-hdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\Adroid\\WorkSpace\\ZBLibrary(AndroidStudio)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\forward_light.png",
+        "source": "E:\\Adroid\\WorkSpace\\ZBLibrary(AndroidStudio)\\ZBLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\forward_light.png"
+    },
+    {
+        "merged": "E:\\Adroid\\WorkSpace\\ZBLibrary(AndroidStudio)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\delete.png",
+        "source": "E:\\Adroid\\WorkSpace\\ZBLibrary(AndroidStudio)\\app\\src\\main\\res\\drawable-hdpi\\delete.png"
+    },
+    {
+        "merged": "E:\\Adroid\\WorkSpace\\ZBLibrary(AndroidStudio)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\notification_bg_low_pressed.9.png",
+        "source": "C:\\Users\\立涛\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\b7ca984526726307fe8b64aebfb5e830\\res\\drawable-hdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "E:\\Adroid\\WorkSpace\\ZBLibrary(AndroidStudio)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png",
+        "source": "C:\\Users\\立涛\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\b7ca984526726307fe8b64aebfb5e830\\res\\drawable-hdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
+        "merged": "E:\\Adroid\\WorkSpace\\ZBLibrary(AndroidStudio)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_text_select_handle_right_mtrl_light.png",
+        "source": "C:\\Users\\立涛\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\b7ca984526726307fe8b64aebfb5e830\\res\\drawable-hdpi-v4\\abc_text_select_handle_right_mtrl_light.png"
+    },
+    {
+        "merged": "E:\\Adroid\\WorkSpace\\ZBLibrary(AndroidStudio)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\search_light.png",
+        "source": "E:\\Adroid\\WorkSpace\\ZBLibrary(AndroidStudio)\\app\\src\\main\\res\\drawable-hdpi\\search_light.png"
+    },
+    {
+        "merged": "E:\\Adroid\\WorkSpace\\ZBLibrary(AndroidStudio)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_text_select_handle_left_mtrl_light.png",
+        "source": "C:\\Users\\立涛\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\b7ca984526726307fe8b64aebfb5e830\\res\\drawable-hdpi-v4\\abc_text_select_handle_left_mtrl_light.png"
+    },
+    {
+        "merged": "E:\\Adroid\\WorkSpace\\ZBLibrary(AndroidStudio)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\default_head.png",
+        "source": "E:\\Adroid\\WorkSpace\\ZBLibrary(AndroidStudio)\\app\\src\\main\\res\\drawable-hdpi\\default_head.png"
+    },
+    {
+        "merged": "E:\\Adroid\\WorkSpace\\ZBLibrary(AndroidStudio)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png",
+        "source": "C:\\Users\\立涛\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\b7ca984526726307fe8b64aebfb5e830\\res\\drawable-hdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\Adroid\\WorkSpace\\ZBLibrary(AndroidStudio)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png",
+        "source": "C:\\Users\\立涛\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\b7ca984526726307fe8b64aebfb5e830\\res\\drawable-hdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\Adroid\\WorkSpace\\ZBLibrary(AndroidStudio)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\notify_panel_notification_icon_bg.png",
+        "source": "C:\\Users\\立涛\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\b7ca984526726307fe8b64aebfb5e830\\res\\drawable-hdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "E:\\Adroid\\WorkSpace\\ZBLibrary(AndroidStudio)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\star.png",
+        "source": "E:\\Adroid\\WorkSpace\\ZBLibrary(AndroidStudio)\\app\\src\\main\\res\\drawable-hdpi\\star.png"
+    },
+    {
+        "merged": "E:\\Adroid\\WorkSpace\\ZBLibrary(AndroidStudio)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png",
+        "source": "C:\\Users\\立涛\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\b7ca984526726307fe8b64aebfb5e830\\res\\drawable-hdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "E:\\Adroid\\WorkSpace\\ZBLibrary(AndroidStudio)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\triangle_up.png",
+        "source": "E:\\Adroid\\WorkSpace\\ZBLibrary(AndroidStudio)\\ZBLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\triangle_up.png"
+    },
+    {
+        "merged": "E:\\Adroid\\WorkSpace\\ZBLibrary(AndroidStudio)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\triangle_down.png",
+        "source": "E:\\Adroid\\WorkSpace\\ZBLibrary(AndroidStudio)\\ZBLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\triangle_down.png"
+    },
+    {
+        "merged": "E:\\Adroid\\WorkSpace\\ZBLibrary(AndroidStudio)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png",
+        "source": "C:\\Users\\立涛\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\b7ca984526726307fe8b64aebfb5e830\\res\\drawable-hdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\Adroid\\WorkSpace\\ZBLibrary(AndroidStudio)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png",
+        "source": "C:\\Users\\立涛\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\b7ca984526726307fe8b64aebfb5e830\\res\\drawable-hdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "E:\\Adroid\\WorkSpace\\ZBLibrary(AndroidStudio)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_015.png",
+        "source": "C:\\Users\\立涛\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\b7ca984526726307fe8b64aebfb5e830\\res\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "E:\\Adroid\\WorkSpace\\ZBLibrary(AndroidStudio)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_focused_holo.9.png",
+        "source": "C:\\Users\\立涛\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\b7ca984526726307fe8b64aebfb5e830\\res\\drawable-hdpi-v4\\abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "E:\\Adroid\\WorkSpace\\ZBLibrary(AndroidStudio)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_star_half_black_36dp.png",
+        "source": "C:\\Users\\立涛\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\b7ca984526726307fe8b64aebfb5e830\\res\\drawable-hdpi-v4\\abc_ic_star_half_black_36dp.png"
+    },
+    {
+        "merged": "E:\\Adroid\\WorkSpace\\ZBLibrary(AndroidStudio)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\menu.png",
+        "source": "E:\\Adroid\\WorkSpace\\ZBLibrary(AndroidStudio)\\app\\src\\main\\res\\drawable-hdpi\\menu.png"
+    },
+    {
+        "merged": "E:\\Adroid\\WorkSpace\\ZBLibrary(AndroidStudio)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\notification_bg_normal_pressed.9.png",
+        "source": "C:\\Users\\立涛\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\b7ca984526726307fe8b64aebfb5e830\\res\\drawable-hdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "E:\\Adroid\\WorkSpace\\ZBLibrary(AndroidStudio)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\edit_light_small.png",
+        "source": "E:\\Adroid\\WorkSpace\\ZBLibrary(AndroidStudio)\\app\\src\\main\\res\\drawable-hdpi\\edit_light_small.png"
+    },
+    {
+        "merged": "E:\\Adroid\\WorkSpace\\ZBLibrary(AndroidStudio)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\edit_light.png",
+        "source": "E:\\Adroid\\WorkSpace\\ZBLibrary(AndroidStudio)\\app\\src\\main\\res\\drawable-hdpi\\edit_light.png"
+    },
+    {
+        "merged": "E:\\Adroid\\WorkSpace\\ZBLibrary(AndroidStudio)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\up_light.png",
+        "source": "E:\\Adroid\\WorkSpace\\ZBLibrary(AndroidStudio)\\ZBLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\up_light.png"
+    },
+    {
+        "merged": "E:\\Adroid\\WorkSpace\\ZBLibrary(AndroidStudio)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_pressed_holo_light.9.png",
+        "source": "C:\\Users\\立涛\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\b7ca984526726307fe8b64aebfb5e830\\res\\drawable-hdpi-v4\\abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "E:\\Adroid\\WorkSpace\\ZBLibrary(AndroidStudio)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_share_mtrl_alpha.png",
+        "source": "C:\\Users\\立涛\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\b7ca984526726307fe8b64aebfb5e830\\res\\drawable-hdpi-v4\\abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\Adroid\\WorkSpace\\ZBLibrary(AndroidStudio)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\design_ic_visibility_off.png",
+        "source": "C:\\Users\\立涛\\.gradle\\caches\\transforms-1\\files-1.1\\design-25.3.1.aar\\ab894c830999dd4e6ad739e6006aa5b8\\res\\drawable-hdpi-v4\\design_ic_visibility_off.png"
+    },
+    {
+        "merged": "E:\\Adroid\\WorkSpace\\ZBLibrary(AndroidStudio)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png",
+        "source": "C:\\Users\\立涛\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\b7ca984526726307fe8b64aebfb5e830\\res\\drawable-hdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\Adroid\\WorkSpace\\ZBLibrary(AndroidStudio)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\loading.png",
+        "source": "E:\\Adroid\\WorkSpace\\ZBLibrary(AndroidStudio)\\app\\src\\main\\res\\drawable-hdpi\\loading.png"
+    },
+    {
+        "merged": "E:\\Adroid\\WorkSpace\\ZBLibrary(AndroidStudio)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\back2_light.png",
+        "source": "E:\\Adroid\\WorkSpace\\ZBLibrary(AndroidStudio)\\ZBLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\back2_light.png"
+    },
+    {
+        "merged": "E:\\Adroid\\WorkSpace\\ZBLibrary(AndroidStudio)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\back_black_light.png",
+        "source": "E:\\Adroid\\WorkSpace\\ZBLibrary(AndroidStudio)\\app\\src\\main\\res\\drawable-hdpi\\back_black_light.png"
+    },
+    {
+        "merged": "E:\\Adroid\\WorkSpace\\ZBLibrary(AndroidStudio)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\earth.png",
+        "source": "E:\\Adroid\\WorkSpace\\ZBLibrary(AndroidStudio)\\app\\src\\main\\res\\drawable-hdpi\\earth.png"
+    },
+    {
+        "merged": "E:\\Adroid\\WorkSpace\\ZBLibrary(AndroidStudio)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_default_mtrl_alpha.9.png",
+        "source": "C:\\Users\\立涛\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\b7ca984526726307fe8b64aebfb5e830\\res\\drawable-hdpi-v4\\abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\Adroid\\WorkSpace\\ZBLibrary(AndroidStudio)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png",
+        "source": "C:\\Users\\立涛\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\b7ca984526726307fe8b64aebfb5e830\\res\\drawable-hdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "E:\\Adroid\\WorkSpace\\ZBLibrary(AndroidStudio)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_star_black_36dp.png",
+        "source": "C:\\Users\\立涛\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\b7ca984526726307fe8b64aebfb5e830\\res\\drawable-hdpi-v4\\abc_ic_star_black_36dp.png"
+    },
+    {
+        "merged": "E:\\Adroid\\WorkSpace\\ZBLibrary(AndroidStudio)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\cancel_light.png",
+        "source": "E:\\Adroid\\WorkSpace\\ZBLibrary(AndroidStudio)\\ZBLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\cancel_light.png"
+    },
+    {
+        "merged": "E:\\Adroid\\WorkSpace\\ZBLibrary(AndroidStudio)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_divider_mtrl_alpha.9.png",
+        "source": "C:\\Users\\立涛\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\b7ca984526726307fe8b64aebfb5e830\\res\\drawable-hdpi-v4\\abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\Adroid\\WorkSpace\\ZBLibrary(AndroidStudio)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\add.png",
+        "source": "E:\\Adroid\\WorkSpace\\ZBLibrary(AndroidStudio)\\ZBLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\add.png"
+    },
+    {
+        "merged": "E:\\Adroid\\WorkSpace\\ZBLibrary(AndroidStudio)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_star_half_black_48dp.png",
+        "source": "C:\\Users\\立涛\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\b7ca984526726307fe8b64aebfb5e830\\res\\drawable-hdpi-v4\\abc_ic_star_half_black_48dp.png"
+    },
+    {
+        "merged": "E:\\Adroid\\WorkSpace\\ZBLibrary(AndroidStudio)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\delete_light.png",
+        "source": "E:\\Adroid\\WorkSpace\\ZBLibrary(AndroidStudio)\\app\\src\\main\\res\\drawable-hdpi\\delete_light.png"
+    },
+    {
+        "merged": "E:\\Adroid\\WorkSpace\\ZBLibrary(AndroidStudio)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mail.png",
+        "source": "E:\\Adroid\\WorkSpace\\ZBLibrary(AndroidStudio)\\app\\src\\main\\res\\drawable-hdpi\\mail.png"
+    },
+    {
+        "merged": "E:\\Adroid\\WorkSpace\\ZBLibrary(AndroidStudio)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\qrcode.png",
+        "source": "E:\\Adroid\\WorkSpace\\ZBLibrary(AndroidStudio)\\app\\src\\main\\res\\drawable-hdpi\\qrcode.png"
+    },
+    {
+        "merged": "E:\\Adroid\\WorkSpace\\ZBLibrary(AndroidStudio)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\add_small.png",
+        "source": "E:\\Adroid\\WorkSpace\\ZBLibrary(AndroidStudio)\\ZBLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\add_small.png"
+    },
+    {
+        "merged": "E:\\Adroid\\WorkSpace\\ZBLibrary(AndroidStudio)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png",
+        "source": "C:\\Users\\立涛\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\b7ca984526726307fe8b64aebfb5e830\\res\\drawable-hdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\Adroid\\WorkSpace\\ZBLibrary(AndroidStudio)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\call_light.png",
+        "source": "E:\\Adroid\\WorkSpace\\ZBLibrary(AndroidStudio)\\app\\src\\main\\res\\drawable-hdpi\\call_light.png"
+    },
+    {
+        "merged": "E:\\Adroid\\WorkSpace\\ZBLibrary(AndroidStudio)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\send_light.png",
+        "source": "E:\\Adroid\\WorkSpace\\ZBLibrary(AndroidStudio)\\app\\src\\main\\res\\drawable-hdpi\\send_light.png"
+    },
+    {
+        "merged": "E:\\Adroid\\WorkSpace\\ZBLibrary(AndroidStudio)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\edit.png",
+        "source": "E:\\Adroid\\WorkSpace\\ZBLibrary(AndroidStudio)\\app\\src\\main\\res\\drawable-hdpi\\edit.png"
+    },
+    {
+        "merged": "E:\\Adroid\\WorkSpace\\ZBLibrary(AndroidStudio)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png",
+        "source": "C:\\Users\\立涛\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\b7ca984526726307fe8b64aebfb5e830\\res\\drawable-hdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png"
+    },
+    {
+        "merged": "E:\\Adroid\\WorkSpace\\ZBLibrary(AndroidStudio)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_star_half_black_16dp.png",
+        "source": "C:\\Users\\立涛\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\b7ca984526726307fe8b64aebfb5e830\\res\\drawable-hdpi-v4\\abc_ic_star_half_black_16dp.png"
+    },
+    {
+        "merged": "E:\\Adroid\\WorkSpace\\ZBLibrary(AndroidStudio)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\setting.png",
+        "source": "E:\\Adroid\\WorkSpace\\ZBLibrary(AndroidStudio)\\app\\src\\main\\res\\drawable-hdpi\\setting.png"
+    },
+    {
+        "merged": "E:\\Adroid\\WorkSpace\\ZBLibrary(AndroidStudio)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\earth_light.png",
+        "source": "E:\\Adroid\\WorkSpace\\ZBLibrary(AndroidStudio)\\app\\src\\main\\res\\drawable-hdpi\\earth_light.png"
+    },
+    {
+        "merged": "E:\\Adroid\\WorkSpace\\ZBLibrary(AndroidStudio)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\notification_bg_normal.9.png",
+        "source": "C:\\Users\\立涛\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\b7ca984526726307fe8b64aebfb5e830\\res\\drawable-hdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "E:\\Adroid\\WorkSpace\\ZBLibrary(AndroidStudio)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mail_light.png",
+        "source": "E:\\Adroid\\WorkSpace\\ZBLibrary(AndroidStudio)\\app\\src\\main\\res\\drawable-hdpi\\mail_light.png"
+    },
+    {
+        "merged": "E:\\Adroid\\WorkSpace\\ZBLibrary(AndroidStudio)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\forward2_light.png",
+        "source": "E:\\Adroid\\WorkSpace\\ZBLibrary(AndroidStudio)\\ZBLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\forward2_light.png"
+    },
+    {
+        "merged": "E:\\Adroid\\WorkSpace\\ZBLibrary(AndroidStudio)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\star_light.png",
+        "source": "E:\\Adroid\\WorkSpace\\ZBLibrary(AndroidStudio)\\app\\src\\main\\res\\drawable-hdpi\\star_light.png"
+    },
+    {
+        "merged": "E:\\Adroid\\WorkSpace\\ZBLibrary(AndroidStudio)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_pressed_holo_dark.9.png",
+        "source": "C:\\Users\\立涛\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\b7ca984526726307fe8b64aebfb5e830\\res\\drawable-hdpi-v4\\abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "E:\\Adroid\\WorkSpace\\ZBLibrary(AndroidStudio)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\notification_bg_low_normal.9.png",
+        "source": "C:\\Users\\立涛\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\b7ca984526726307fe8b64aebfb5e830\\res\\drawable-hdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "E:\\Adroid\\WorkSpace\\ZBLibrary(AndroidStudio)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_text_select_handle_left_mtrl_dark.png",
+        "source": "C:\\Users\\立涛\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\b7ca984526726307fe8b64aebfb5e830\\res\\drawable-hdpi-v4\\abc_text_select_handle_left_mtrl_dark.png"
+    },
+    {
+        "merged": "E:\\Adroid\\WorkSpace\\ZBLibrary(AndroidStudio)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_longpressed_holo.9.png",
+        "source": "C:\\Users\\立涛\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\b7ca984526726307fe8b64aebfb5e830\\res\\drawable-hdpi-v4\\abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "E:\\Adroid\\WorkSpace\\ZBLibrary(AndroidStudio)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_star_black_48dp.png",
+        "source": "C:\\Users\\立涛\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\b7ca984526726307fe8b64aebfb5e830\\res\\drawable-hdpi-v4\\abc_ic_star_black_48dp.png"
+    },
+    {
+        "merged": "E:\\Adroid\\WorkSpace\\ZBLibrary(AndroidStudio)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png",
+        "source": "C:\\Users\\立涛\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\b7ca984526726307fe8b64aebfb5e830\\res\\drawable-hdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\Adroid\\WorkSpace\\ZBLibrary(AndroidStudio)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\menu_light.png",
+        "source": "E:\\Adroid\\WorkSpace\\ZBLibrary(AndroidStudio)\\app\\src\\main\\res\\drawable-hdpi\\menu_light.png"
+    },
+    {
+        "merged": "E:\\Adroid\\WorkSpace\\ZBLibrary(AndroidStudio)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\on.png",
+        "source": "E:\\Adroid\\WorkSpace\\ZBLibrary(AndroidStudio)\\app\\src\\main\\res\\drawable-hdpi\\on.png"
+    },
+    {
+        "merged": "E:\\Adroid\\WorkSpace\\ZBLibrary(AndroidStudio)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\setting_light.png",
+        "source": "E:\\Adroid\\WorkSpace\\ZBLibrary(AndroidStudio)\\app\\src\\main\\res\\drawable-hdpi\\setting_light.png"
+    },
+    {
+        "merged": "E:\\Adroid\\WorkSpace\\ZBLibrary(AndroidStudio)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\xlistview_arrow.png",
+        "source": "E:\\Adroid\\WorkSpace\\ZBLibrary(AndroidStudio)\\ZBLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\xlistview_arrow.png"
+    },
+    {
+        "merged": "E:\\Adroid\\WorkSpace\\ZBLibrary(AndroidStudio)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png",
+        "source": "C:\\Users\\立涛\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\b7ca984526726307fe8b64aebfb5e830\\res\\drawable-hdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\Adroid\\WorkSpace\\ZBLibrary(AndroidStudio)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_015.png",
+        "source": "C:\\Users\\立涛\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\b7ca984526726307fe8b64aebfb5e830\\res\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "E:\\Adroid\\WorkSpace\\ZBLibrary(AndroidStudio)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mail_add.png",
+        "source": "E:\\Adroid\\WorkSpace\\ZBLibrary(AndroidStudio)\\app\\src\\main\\res\\drawable-hdpi\\mail_add.png"
+    },
+    {
+        "merged": "E:\\Adroid\\WorkSpace\\ZBLibrary(AndroidStudio)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\angel.png",
+        "source": "E:\\Adroid\\WorkSpace\\ZBLibrary(AndroidStudio)\\app\\src\\main\\res\\drawable-hdpi\\angel.png"
+    },
+    {
+        "merged": "E:\\Adroid\\WorkSpace\\ZBLibrary(AndroidStudio)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "E:\\Adroid\\WorkSpace\\ZBLibrary(AndroidStudio)\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Adroid\\WorkSpace\\ZBLibrary(AndroidStudio)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_star_black_16dp.png",
+        "source": "C:\\Users\\立涛\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\b7ca984526726307fe8b64aebfb5e830\\res\\drawable-hdpi-v4\\abc_ic_star_black_16dp.png"
+    },
+    {
+        "merged": "E:\\Adroid\\WorkSpace\\ZBLibrary(AndroidStudio)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_text_select_handle_middle_mtrl_dark.png",
+        "source": "C:\\Users\\立涛\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\b7ca984526726307fe8b64aebfb5e830\\res\\drawable-hdpi-v4\\abc_text_select_handle_middle_mtrl_dark.png"
+    },
+    {
+        "merged": "E:\\Adroid\\WorkSpace\\ZBLibrary(AndroidStudio)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\back2.png",
+        "source": "E:\\Adroid\\WorkSpace\\ZBLibrary(AndroidStudio)\\ZBLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\back2.png"
+    },
+    {
+        "merged": "E:\\Adroid\\WorkSpace\\ZBLibrary(AndroidStudio)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_dark.9.png",
+        "source": "C:\\Users\\立涛\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\b7ca984526726307fe8b64aebfb5e830\\res\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "E:\\Adroid\\WorkSpace\\ZBLibrary(AndroidStudio)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_light.9.png",
+        "source": "C:\\Users\\立涛\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\b7ca984526726307fe8b64aebfb5e830\\res\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "E:\\Adroid\\WorkSpace\\ZBLibrary(AndroidStudio)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_text_select_handle_middle_mtrl_light.png",
+        "source": "C:\\Users\\立涛\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\b7ca984526726307fe8b64aebfb5e830\\res\\drawable-hdpi-v4\\abc_text_select_handle_middle_mtrl_light.png"
+    },
+    {
+        "merged": "E:\\Adroid\\WorkSpace\\ZBLibrary(AndroidStudio)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\down2_small.png",
+        "source": "E:\\Adroid\\WorkSpace\\ZBLibrary(AndroidStudio)\\app\\src\\main\\res\\drawable-hdpi\\down2_small.png"
+    },
+    {
+        "merged": "E:\\Adroid\\WorkSpace\\ZBLibrary(AndroidStudio)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_text_select_handle_right_mtrl_dark.png",
+        "source": "C:\\Users\\立涛\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\b7ca984526726307fe8b64aebfb5e830\\res\\drawable-hdpi-v4\\abc_text_select_handle_right_mtrl_dark.png"
+    },
+    {
+        "merged": "E:\\Adroid\\WorkSpace\\ZBLibrary(AndroidStudio)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\cancel.png",
+        "source": "E:\\Adroid\\WorkSpace\\ZBLibrary(AndroidStudio)\\ZBLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\cancel.png"
+    },
+    {
+        "merged": "E:\\Adroid\\WorkSpace\\ZBLibrary(AndroidStudio)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_switch_track_mtrl_alpha.9.png",
+        "source": "C:\\Users\\立涛\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\b7ca984526726307fe8b64aebfb5e830\\res\\drawable-hdpi-v4\\abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\Adroid\\WorkSpace\\ZBLibrary(AndroidStudio)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png",
+        "source": "C:\\Users\\立涛\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\b7ca984526726307fe8b64aebfb5e830\\res\\drawable-hdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\Adroid\\WorkSpace\\ZBLibrary(AndroidStudio)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png",
+        "source": "C:\\Users\\立涛\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\b7ca984526726307fe8b64aebfb5e830\\res\\drawable-hdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\Adroid\\WorkSpace\\ZBLibrary(AndroidStudio)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_spinner_mtrl_am_alpha.9.png",
+        "source": "C:\\Users\\立涛\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\b7ca984526726307fe8b64aebfb5e830\\res\\drawable-hdpi-v4\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "E:\\Adroid\\WorkSpace\\ZBLibrary(AndroidStudio)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\design_ic_visibility.png",
+        "source": "C:\\Users\\立涛\\.gradle\\caches\\transforms-1\\files-1.1\\design-25.3.1.aar\\ab894c830999dd4e6ad739e6006aa5b8\\res\\drawable-hdpi-v4\\design_ic_visibility.png"
+    },
+    {
+        "merged": "E:\\Adroid\\WorkSpace\\ZBLibrary(AndroidStudio)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\add_light.png",
+        "source": "E:\\Adroid\\WorkSpace\\ZBLibrary(AndroidStudio)\\ZBLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\add_light.png"
+    },
+    {
+        "merged": "E:\\Adroid\\WorkSpace\\ZBLibrary(AndroidStudio)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png",
+        "source": "C:\\Users\\立涛\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\b7ca984526726307fe8b64aebfb5e830\\res\\drawable-hdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\Adroid\\WorkSpace\\ZBLibrary(AndroidStudio)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png",
+        "source": "C:\\Users\\立涛\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\b7ca984526726307fe8b64aebfb5e830\\res\\drawable-hdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\Adroid\\WorkSpace\\ZBLibrary(AndroidStudio)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png",
+        "source": "C:\\Users\\立涛\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\b7ca984526726307fe8b64aebfb5e830\\res\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "E:\\Adroid\\WorkSpace\\ZBLibrary(AndroidStudio)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_000.png",
+        "source": "C:\\Users\\立涛\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\b7ca984526726307fe8b64aebfb5e830\\res\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "E:\\Adroid\\WorkSpace\\ZBLibrary(AndroidStudio)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\search.png",
+        "source": "E:\\Adroid\\WorkSpace\\ZBLibrary(AndroidStudio)\\app\\src\\main\\res\\drawable-hdpi\\search.png"
+    },
+    {
+        "merged": "E:\\Adroid\\WorkSpace\\ZBLibrary(AndroidStudio)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_popup_background_mtrl_mult.9.png",
+        "source": "C:\\Users\\立涛\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\b7ca984526726307fe8b64aebfb5e830\\res\\drawable-hdpi-v4\\abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "E:\\Adroid\\WorkSpace\\ZBLibrary(AndroidStudio)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\off.png",
+        "source": "E:\\Adroid\\WorkSpace\\ZBLibrary(AndroidStudio)\\app\\src\\main\\res\\drawable-hdpi\\off.png"
+    },
+    {
+        "merged": "E:\\Adroid\\WorkSpace\\ZBLibrary(AndroidStudio)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\flash_light.png",
+        "source": "E:\\Adroid\\WorkSpace\\ZBLibrary(AndroidStudio)\\app\\src\\main\\res\\drawable-hdpi\\flash_light.png"
+    },
+    {
+        "merged": "E:\\Adroid\\WorkSpace\\ZBLibrary(AndroidStudio)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png",
+        "source": "C:\\Users\\立涛\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\b7ca984526726307fe8b64aebfb5e830\\res\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png"
+    }
+]

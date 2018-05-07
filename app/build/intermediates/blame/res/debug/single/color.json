@@ -1,0 +1,102 @@
+[
+    {
+        "merged": "E:\\Adroid\\WorkSpace\\ZBLibrary(AndroidStudio)\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_spinner.xml",
+        "source": "C:\\Users\\立涛\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\b7ca984526726307fe8b64aebfb5e830\\res\\color\\abc_tint_spinner.xml"
+    },
+    {
+        "merged": "E:\\Adroid\\WorkSpace\\ZBLibrary(AndroidStudio)\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_btn_colored_text_material.xml",
+        "source": "C:\\Users\\立涛\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\b7ca984526726307fe8b64aebfb5e830\\res\\color\\abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "E:\\Adroid\\WorkSpace\\ZBLibrary(AndroidStudio)\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_dark.xml",
+        "source": "C:\\Users\\立涛\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\b7ca984526726307fe8b64aebfb5e830\\res\\color\\switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "E:\\Adroid\\WorkSpace\\ZBLibrary(AndroidStudio)\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_light.xml",
+        "source": "C:\\Users\\立涛\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\b7ca984526726307fe8b64aebfb5e830\\res\\color\\abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "E:\\Adroid\\WorkSpace\\ZBLibrary(AndroidStudio)\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_dark.xml",
+        "source": "C:\\Users\\立涛\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\b7ca984526726307fe8b64aebfb5e830\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "E:\\Adroid\\WorkSpace\\ZBLibrary(AndroidStudio)\\app\\build\\intermediates\\res\\merged\\debug\\color\\white_to_black.xml",
+        "source": "E:\\Adroid\\WorkSpace\\ZBLibrary(AndroidStudio)\\ZBLibrary\\build\\intermediates\\bundles\\debug\\res\\color\\white_to_black.xml"
+    },
+    {
+        "merged": "E:\\Adroid\\WorkSpace\\ZBLibrary(AndroidStudio)\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_edittext.xml",
+        "source": "C:\\Users\\立涛\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\b7ca984526726307fe8b64aebfb5e830\\res\\color\\abc_tint_edittext.xml"
+    },
+    {
+        "merged": "E:\\Adroid\\WorkSpace\\ZBLibrary(AndroidStudio)\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_default.xml",
+        "source": "C:\\Users\\立涛\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\b7ca984526726307fe8b64aebfb5e830\\res\\color\\abc_tint_default.xml"
+    },
+    {
+        "merged": "E:\\Adroid\\WorkSpace\\ZBLibrary(AndroidStudio)\\app\\build\\intermediates\\res\\merged\\debug\\color\\design_error.xml",
+        "source": "C:\\Users\\立涛\\.gradle\\caches\\transforms-1\\files-1.1\\design-25.3.1.aar\\ab894c830999dd4e6ad739e6006aa5b8\\res\\color\\design_error.xml"
+    },
+    {
+        "merged": "E:\\Adroid\\WorkSpace\\ZBLibrary(AndroidStudio)\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_switch_track.xml",
+        "source": "C:\\Users\\立涛\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\b7ca984526726307fe8b64aebfb5e830\\res\\color\\abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "E:\\Adroid\\WorkSpace\\ZBLibrary(AndroidStudio)\\app\\build\\intermediates\\res\\merged\\debug\\color\\alpha_to_darker.xml",
+        "source": "E:\\Adroid\\WorkSpace\\ZBLibrary(AndroidStudio)\\ZBLibrary\\build\\intermediates\\bundles\\debug\\res\\color\\alpha_to_darker.xml"
+    },
+    {
+        "merged": "E:\\Adroid\\WorkSpace\\ZBLibrary(AndroidStudio)\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_btn_colored_borderless_text_material.xml",
+        "source": "C:\\Users\\立涛\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\b7ca984526726307fe8b64aebfb5e830\\res\\color\\abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "E:\\Adroid\\WorkSpace\\ZBLibrary(AndroidStudio)\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_dark.xml",
+        "source": "C:\\Users\\立涛\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\b7ca984526726307fe8b64aebfb5e830\\res\\color\\abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "E:\\Adroid\\WorkSpace\\ZBLibrary(AndroidStudio)\\app\\build\\intermediates\\res\\merged\\debug\\color\\black_to_white.xml",
+        "source": "E:\\Adroid\\WorkSpace\\ZBLibrary(AndroidStudio)\\ZBLibrary\\build\\intermediates\\bundles\\debug\\res\\color\\black_to_white.xml"
+    },
+    {
+        "merged": "E:\\Adroid\\WorkSpace\\ZBLibrary(AndroidStudio)\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_hint_foreground_material_dark.xml",
+        "source": "C:\\Users\\立涛\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\b7ca984526726307fe8b64aebfb5e830\\res\\color\\abc_hint_foreground_material_dark.xml"
+    },
+    {
+        "merged": "E:\\Adroid\\WorkSpace\\ZBLibrary(AndroidStudio)\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_dark.xml",
+        "source": "C:\\Users\\立涛\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\b7ca984526726307fe8b64aebfb5e830\\res\\color\\abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "E:\\Adroid\\WorkSpace\\ZBLibrary(AndroidStudio)\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_hint_foreground_material_light.xml",
+        "source": "C:\\Users\\立涛\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\b7ca984526726307fe8b64aebfb5e830\\res\\color\\abc_hint_foreground_material_light.xml"
+    },
+    {
+        "merged": "E:\\Adroid\\WorkSpace\\ZBLibrary(AndroidStudio)\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_light.xml",
+        "source": "C:\\Users\\立涛\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\b7ca984526726307fe8b64aebfb5e830\\res\\color\\switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "E:\\Adroid\\WorkSpace\\ZBLibrary(AndroidStudio)\\app\\build\\intermediates\\res\\merged\\debug\\color\\design_tint_password_toggle.xml",
+        "source": "C:\\Users\\立涛\\.gradle\\caches\\transforms-1\\files-1.1\\design-25.3.1.aar\\ab894c830999dd4e6ad739e6006aa5b8\\res\\color\\design_tint_password_toggle.xml"
+    },
+    {
+        "merged": "E:\\Adroid\\WorkSpace\\ZBLibrary(AndroidStudio)\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_search_url_text.xml",
+        "source": "C:\\Users\\立涛\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\b7ca984526726307fe8b64aebfb5e830\\res\\color\\abc_search_url_text.xml"
+    },
+    {
+        "merged": "E:\\Adroid\\WorkSpace\\ZBLibrary(AndroidStudio)\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_seek_thumb.xml",
+        "source": "C:\\Users\\立涛\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\b7ca984526726307fe8b64aebfb5e830\\res\\color\\abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "E:\\Adroid\\WorkSpace\\ZBLibrary(AndroidStudio)\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_light.xml",
+        "source": "C:\\Users\\立涛\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\b7ca984526726307fe8b64aebfb5e830\\res\\color\\abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "E:\\Adroid\\WorkSpace\\ZBLibrary(AndroidStudio)\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_switch_thumb.xml",
+        "source": "C:\\Users\\立涛\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\b7ca984526726307fe8b64aebfb5e830\\res\\color\\abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "E:\\Adroid\\WorkSpace\\ZBLibrary(AndroidStudio)\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_btn_checkable.xml",
+        "source": "C:\\Users\\立涛\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\b7ca984526726307fe8b64aebfb5e830\\res\\color\\abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "E:\\Adroid\\WorkSpace\\ZBLibrary(AndroidStudio)\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_light.xml",
+        "source": "C:\\Users\\立涛\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\b7ca984526726307fe8b64aebfb5e830\\res\\color\\abc_secondary_text_material_light.xml"
+    }
+]

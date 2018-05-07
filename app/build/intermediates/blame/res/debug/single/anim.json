@@ -1,0 +1,118 @@
+[
+    {
+        "merged": "E:\\Adroid\\WorkSpace\\ZBLibrary(AndroidStudio)\\app\\build\\intermediates\\res\\merged\\debug\\anim\\left_push_out.xml",
+        "source": "E:\\Adroid\\WorkSpace\\ZBLibrary(AndroidStudio)\\ZBLibrary\\build\\intermediates\\bundles\\debug\\res\\anim\\left_push_out.xml"
+    },
+    {
+        "merged": "E:\\Adroid\\WorkSpace\\ZBLibrary(AndroidStudio)\\app\\build\\intermediates\\res\\merged\\debug\\anim\\push_in.xml",
+        "source": "E:\\Adroid\\WorkSpace\\ZBLibrary(AndroidStudio)\\ZBLibrary\\build\\intermediates\\bundles\\debug\\res\\anim\\push_in.xml"
+    },
+    {
+        "merged": "E:\\Adroid\\WorkSpace\\ZBLibrary(AndroidStudio)\\app\\build\\intermediates\\res\\merged\\debug\\anim\\bottom_push_in.xml",
+        "source": "E:\\Adroid\\WorkSpace\\ZBLibrary(AndroidStudio)\\ZBLibrary\\build\\intermediates\\bundles\\debug\\res\\anim\\bottom_push_in.xml"
+    },
+    {
+        "merged": "E:\\Adroid\\WorkSpace\\ZBLibrary(AndroidStudio)\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\立涛\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\b7ca984526726307fe8b64aebfb5e830\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "E:\\Adroid\\WorkSpace\\ZBLibrary(AndroidStudio)\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\立涛\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\b7ca984526726307fe8b64aebfb5e830\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "E:\\Adroid\\WorkSpace\\ZBLibrary(AndroidStudio)\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\立涛\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\b7ca984526726307fe8b64aebfb5e830\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "E:\\Adroid\\WorkSpace\\ZBLibrary(AndroidStudio)\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\立涛\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\b7ca984526726307fe8b64aebfb5e830\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "E:\\Adroid\\WorkSpace\\ZBLibrary(AndroidStudio)\\app\\build\\intermediates\\res\\merged\\debug\\anim\\null_anim.xml",
+        "source": "E:\\Adroid\\WorkSpace\\ZBLibrary(AndroidStudio)\\ZBLibrary\\build\\intermediates\\bundles\\debug\\res\\anim\\null_anim.xml"
+    },
+    {
+        "merged": "E:\\Adroid\\WorkSpace\\ZBLibrary(AndroidStudio)\\app\\build\\intermediates\\res\\merged\\debug\\anim\\right_push_out.xml",
+        "source": "E:\\Adroid\\WorkSpace\\ZBLibrary(AndroidStudio)\\ZBLibrary\\build\\intermediates\\bundles\\debug\\res\\anim\\right_push_out.xml"
+    },
+    {
+        "merged": "E:\\Adroid\\WorkSpace\\ZBLibrary(AndroidStudio)\\app\\build\\intermediates\\res\\merged\\debug\\anim\\bottom_window_enter.xml",
+        "source": "E:\\Adroid\\WorkSpace\\ZBLibrary(AndroidStudio)\\ZBLibrary\\build\\intermediates\\bundles\\debug\\res\\anim\\bottom_window_enter.xml"
+    },
+    {
+        "merged": "E:\\Adroid\\WorkSpace\\ZBLibrary(AndroidStudio)\\app\\build\\intermediates\\res\\merged\\debug\\anim\\right_push_in.xml",
+        "source": "E:\\Adroid\\WorkSpace\\ZBLibrary(AndroidStudio)\\ZBLibrary\\build\\intermediates\\bundles\\debug\\res\\anim\\right_push_in.xml"
+    },
+    {
+        "merged": "E:\\Adroid\\WorkSpace\\ZBLibrary(AndroidStudio)\\app\\build\\intermediates\\res\\merged\\debug\\anim\\hold.xml",
+        "source": "E:\\Adroid\\WorkSpace\\ZBLibrary(AndroidStudio)\\ZBLibrary\\build\\intermediates\\bundles\\debug\\res\\anim\\hold.xml"
+    },
+    {
+        "merged": "E:\\Adroid\\WorkSpace\\ZBLibrary(AndroidStudio)\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_out.xml",
+        "source": "C:\\Users\\立涛\\.gradle\\caches\\transforms-1\\files-1.1\\design-25.3.1.aar\\ab894c830999dd4e6ad739e6006aa5b8\\res\\anim\\design_snackbar_out.xml"
+    },
+    {
+        "merged": "E:\\Adroid\\WorkSpace\\ZBLibrary(AndroidStudio)\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_in.xml",
+        "source": "C:\\Users\\立涛\\.gradle\\caches\\transforms-1\\files-1.1\\design-25.3.1.aar\\ab894c830999dd4e6ad739e6006aa5b8\\res\\anim\\design_fab_in.xml"
+    },
+    {
+        "merged": "E:\\Adroid\\WorkSpace\\ZBLibrary(AndroidStudio)\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_out.xml",
+        "source": "C:\\Users\\立涛\\.gradle\\caches\\transforms-1\\files-1.1\\design-25.3.1.aar\\ab894c830999dd4e6ad739e6006aa5b8\\res\\anim\\design_fab_out.xml"
+    },
+    {
+        "merged": "E:\\Adroid\\WorkSpace\\ZBLibrary(AndroidStudio)\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\Users\\立涛\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\b7ca984526726307fe8b64aebfb5e830\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "E:\\Adroid\\WorkSpace\\ZBLibrary(AndroidStudio)\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_out.xml",
+        "source": "C:\\Users\\立涛\\.gradle\\caches\\transforms-1\\files-1.1\\design-25.3.1.aar\\ab894c830999dd4e6ad739e6006aa5b8\\res\\anim\\design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "E:\\Adroid\\WorkSpace\\ZBLibrary(AndroidStudio)\\app\\build\\intermediates\\res\\merged\\debug\\anim\\push_out.xml",
+        "source": "E:\\Adroid\\WorkSpace\\ZBLibrary(AndroidStudio)\\ZBLibrary\\build\\intermediates\\bundles\\debug\\res\\anim\\push_out.xml"
+    },
+    {
+        "merged": "E:\\Adroid\\WorkSpace\\ZBLibrary(AndroidStudio)\\app\\build\\intermediates\\res\\merged\\debug\\anim\\fade.xml",
+        "source": "E:\\Adroid\\WorkSpace\\ZBLibrary(AndroidStudio)\\ZBLibrary\\build\\intermediates\\bundles\\debug\\res\\anim\\fade.xml"
+    },
+    {
+        "merged": "E:\\Adroid\\WorkSpace\\ZBLibrary(AndroidStudio)\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\立涛\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\b7ca984526726307fe8b64aebfb5e830\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "E:\\Adroid\\WorkSpace\\ZBLibrary(AndroidStudio)\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_in.xml",
+        "source": "C:\\Users\\立涛\\.gradle\\caches\\transforms-1\\files-1.1\\design-25.3.1.aar\\ab894c830999dd4e6ad739e6006aa5b8\\res\\anim\\design_snackbar_in.xml"
+    },
+    {
+        "merged": "E:\\Adroid\\WorkSpace\\ZBLibrary(AndroidStudio)\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "C:\\Users\\立涛\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\b7ca984526726307fe8b64aebfb5e830\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "E:\\Adroid\\WorkSpace\\ZBLibrary(AndroidStudio)\\app\\build\\intermediates\\res\\merged\\debug\\anim\\bottom_push_out.xml",
+        "source": "E:\\Adroid\\WorkSpace\\ZBLibrary(AndroidStudio)\\ZBLibrary\\build\\intermediates\\bundles\\debug\\res\\anim\\bottom_push_out.xml"
+    },
+    {
+        "merged": "E:\\Adroid\\WorkSpace\\ZBLibrary(AndroidStudio)\\app\\build\\intermediates\\res\\merged\\debug\\anim\\bottom_window_exit.xml",
+        "source": "E:\\Adroid\\WorkSpace\\ZBLibrary(AndroidStudio)\\ZBLibrary\\build\\intermediates\\bundles\\debug\\res\\anim\\bottom_window_exit.xml"
+    },
+    {
+        "merged": "E:\\Adroid\\WorkSpace\\ZBLibrary(AndroidStudio)\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_in.xml",
+        "source": "C:\\Users\\立涛\\.gradle\\caches\\transforms-1\\files-1.1\\design-25.3.1.aar\\ab894c830999dd4e6ad739e6006aa5b8\\res\\anim\\design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "E:\\Adroid\\WorkSpace\\ZBLibrary(AndroidStudio)\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "C:\\Users\\立涛\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\b7ca984526726307fe8b64aebfb5e830\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "E:\\Adroid\\WorkSpace\\ZBLibrary(AndroidStudio)\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\Users\\立涛\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\b7ca984526726307fe8b64aebfb5e830\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "E:\\Adroid\\WorkSpace\\ZBLibrary(AndroidStudio)\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\立涛\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\b7ca984526726307fe8b64aebfb5e830\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "E:\\Adroid\\WorkSpace\\ZBLibrary(AndroidStudio)\\app\\build\\intermediates\\res\\merged\\debug\\anim\\left_push_in.xml",
+        "source": "E:\\Adroid\\WorkSpace\\ZBLibrary(AndroidStudio)\\ZBLibrary\\build\\intermediates\\bundles\\debug\\res\\anim\\left_push_in.xml"
+    }
+]

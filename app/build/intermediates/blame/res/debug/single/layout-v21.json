@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "E:\\Adroid\\WorkSpace\\ZBLibrary(AndroidStudio)\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\立涛\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\b7ca984526726307fe8b64aebfb5e830\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "E:\\Adroid\\WorkSpace\\ZBLibrary(AndroidStudio)\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\立涛\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\b7ca984526726307fe8b64aebfb5e830\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "E:\\Adroid\\WorkSpace\\ZBLibrary(AndroidStudio)\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\立涛\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\b7ca984526726307fe8b64aebfb5e830\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "E:\\Adroid\\WorkSpace\\ZBLibrary(AndroidStudio)\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\立涛\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\b7ca984526726307fe8b64aebfb5e830\\res\\layout-v21\\notification_action.xml"
+    }
+]

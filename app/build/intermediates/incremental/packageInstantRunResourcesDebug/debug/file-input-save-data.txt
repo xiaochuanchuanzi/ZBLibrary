@@ -1,0 +1,11 @@
+#Internal package file, do not edit.
+#Tue May 08 00:28:11 CST 2018
+1.base=E\:\\Adroid\\WorkSpace\\ZBLibrary(AndroidStudio)\\app\\build\\intermediates\\assets\\debug
+0.baseType=DIRECTORY
+1.baseType=DIRECTORY
+count=2
+1.set=ASSET
+0.path=city.db
+0.set=ASSET
+0.base=E\:\\Adroid\\WorkSpace\\ZBLibrary(AndroidStudio)\\app\\build\\intermediates\\assets\\debug
+1.path=demo.cer
